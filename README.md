@@ -1,1 +1,1 @@
-# Skin_cancer_classification_web_app
+# Skin_cancer_classification_Using_TransferLearnig_keraS
